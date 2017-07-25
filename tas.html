@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script>
+			var string = prompt("Enter a string")
+
+			var split_string = string.split(" ")
+			var i,l=0
+			var longest_word
+			for(i=0;i<split_string.length;i++)
+			{
+
+				if(split_string[i].length > l)
+				{
+					l = split_string[i].length
+					longest_word = split_string[i]	
+				}
+			}
+
+
+			document.write("Longest word: " + longest_word)
+
+		</script>
+	</head>
+	<body>
+	</body>
+</html>
