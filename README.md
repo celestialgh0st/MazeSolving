@@ -4,10 +4,10 @@ It uses libpng libraries, so to compile this program you should have libpng1.6, 
 installed on your <b>linux</b> machine.
 
 If you wish to copy the code please keep the initial comment as it is.<br />
-__
+<br />
 Input Image:<br />
 ![alt text](https://github.com/celestialgh0st/MazeSolving/blob/master/20%20by%2020%20orthogonal%20maze(1).png)<br />
-__
+<br />
 Output <br />
 ![alt text](https://github.com/celestialgh0st/MazeSolving/blob/master/20%20by%2020%20orthogonal%20maze(1).png_soln)<br />
 <br />
